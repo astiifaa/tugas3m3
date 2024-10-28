@@ -6,5 +6,6 @@ public class Main {
         number.showSeatNumber();
         ticket.applyStockAdjustment(10);
         number.showSeatNumber();
+        System.out.println("One Direction");
     }
 }
